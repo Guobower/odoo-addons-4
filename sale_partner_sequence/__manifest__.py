@@ -11,7 +11,8 @@
     'website': 'https://www.github.com/rcastro-tyc',
     'category': 'Sales',
     'depends': [
-        'base'
+        'base',
+        'sale',
     ],
 
     'data': [
